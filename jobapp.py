@@ -73,10 +73,10 @@ def main_menu():
     while True:
         print("\nJob Application Tracker")
         print("1. Add New Job Application")
-        print("2. View All Applications")
+        print("2. see All Applications")
         print("3. Update Application Status")
         print("4. Delete Job Application")
-        print("5. Exit")
+        print("5. back")
         choice = input("Choose an option: ")
 
         if choice == '1':
